@@ -1,0 +1,2 @@
+# Assignment-3---Build-a-Pixel-Perfect-Page-Using-Next.js-Tailwind-CSS
+Repository showcases a pixel-perfect page built with Next.js and Tailwind CSS, following a modular, component-based architecture. The design replicates the provided Figma file with precision in layout, spacing, and colors. View the reference design here: https://www.figma.com/design/1pMEY5eP6jTGfsTy9DOwwr/Whitepace---SaaS-Landing-Page?node-id=9-101
